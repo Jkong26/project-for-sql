@@ -17,7 +17,7 @@ For deep dive into the data analyst job market, the tools I used were:
 - Visual Studio Code: My favourite coding tool especially for management and executing SQL queries.
 - Git & Github: Essential for sharing SQL scripts and analysis to ensure the collaboration and project tracking.
 # The Analysis
-Each query for this project aimed at investigating specific aspects of the data analyst job market. Here's how I approached each question:
+Each query for this project aimed at investigating specific aspects of the data analyst job market. Here's how I approached each question... for example:
 ### 1. Top Paying Data Analyst Jobs
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs (anywhere). This query highlights the high salary opportunities in the field.
 
@@ -42,4 +42,6 @@ LIMIT 10
 ```
 
 # What I Learned
+During this learning journey, I've really strenghened my SQL skills. I learned how to write more advanced queries, join tables and use WITH clauses to create temporary tables when needed. I also learned about GROUP BY and using functions like COUNT() and AVG() to summarise data. Most importantly, I improved my ability to think through real-world problems and turn questions into clear and useful SQL queries.
 # Conclusions
+In conclusion, this project helped me improve my SQL skills and gave me a better understanding of the data analyst job market. The insights from the analysis make it easier to decide which skills to focus on and how to approach a job reach. By concentrating on skills that are in high demand and offer higher salaries. Overall, this project shows how important it is to keep learning and adapting as the field of data analytics continues to evolve.
